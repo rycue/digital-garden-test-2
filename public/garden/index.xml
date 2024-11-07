@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gardens on My New Hugo Site</title>
+    <link>http://localhost:1313/garden/</link>
+    <description>Recent content in Gardens on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2024 11:49:13 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/garden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evergreen_example</title>
+      <link>http://localhost:1313/garden/evergreen_example/</link>
+      <pubDate>Thu, 07 Nov 2024 11:49:13 +0800</pubDate>
+      <guid>http://localhost:1313/garden/evergreen_example/</guid>
+      <description>&lt;h1 id=&#34;evergreen-trees-&#34;id=&#34;evergreen-trees-&#34;&#xD;&#xA;&gt;Evergreen Trees 🌲 &#xD;&#xA;&lt;button &#xD;&#xA;    type=&#34;button&#34; &#xD;&#xA;    class=&#34;anchor&#34; &#xD;&#xA;    data-title=&#34;Copy link to clipboard&#34; &#xD;&#xA;    aria-label=&#34;Copy link to clipboard&#34;&#xD;&#xA;    onclick=&#34;navigator.clipboard.writeText(&amp;#34;http://localhost:1313/garden/evergreen_example/#evergreen-trees-&amp;#34;);this.insertAdjacentHTML(&#39;afterend&#39;, &#39;&lt;div class=link-copied&gt;Link copied&lt;/div&gt;&#39;);setTimeout(() =&gt; { document.querySelectorAll(&#39;.link-copied&#39;).forEach(el =&gt; el.remove()); }, 3000);&#34;&#xD;&#xA;&gt;&#xD;&#xA;    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 96 960 960&#34; width=&#34;1em&#34;&gt;&#xD;&#xA;        &lt;path d=&#34;M450 776H280q-83 0-141.5-58.5T80 576q0-83 58.5-141.5T280 376h170v60H280q-58.333 0-99.167 40.765-40.833 40.764-40.833 99Q140 634 180.833 675q40.834 41 99.167 41h170v60ZM325 606v-60h310v60H325Zm185 170v-60h170q58.333 0 99.167-40.765 40.833-40.764 40.833-99Q820 518 779.167 477 738.333 436 680 436H510v-60h170q83 0 141.5 58.5T880 576q0 83-58.5 141.5T680 776H510Z&#34;/&gt;&#xD;&#xA;    &lt;/svg&gt;&#xD;&#xA;&lt;/button&gt;&#xD;&#xA;&lt;/h1&gt;&lt;p&gt;Evergreen trees are a unique group of trees that retain their green foliage throughout the year. Unlike deciduous trees, which shed their leaves in the fall, evergreen trees keep their leaves or needles, allowing them to photosynthesize year-round. Here’s a closer look at what makes evergreen trees so special.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
